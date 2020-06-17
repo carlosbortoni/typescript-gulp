@@ -1,0 +1,28 @@
+{
+  "name": "typescript-gulp",
+  "version": "1.0.0",
+  "description": "### Exemplo básico de integração",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosbortoni/typescript-gulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosbortoni/typescript-gulp/issues"
+  },
+  "homepage": "https://github.com/carlosbortoni/typescript-gulp#readme",
+  "devDependencies": {
+    "browserify": "^16.5.1",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "tsify": "^4.0.2",
+    "typescript": "^3.9.5",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
